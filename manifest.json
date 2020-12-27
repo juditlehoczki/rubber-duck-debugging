@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Rubber Duck Debugger",
+  "name": "Duck Norris",
   "version": "1.0",
-  "description": "Rubber Duck Debugger",
+  "description": "A rubber duck debugging tool",
   "author": "Judit Lehoczki",
-  "short_name": "rubberDuckRebugger",
+  "short_name": "ducknorris",
   "icons": {
       "128":"assets/icon128.png",
       "48": "assets/icon128.png",

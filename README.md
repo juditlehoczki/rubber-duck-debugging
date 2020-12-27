@@ -1,3 +1,5 @@
+<img alt="Duck Norris" src="./assets/icon128.png">
+
 # Duck Norris - Explain It To The Duck!
 
 ## A Google Chrome Extension To Ditch The Need For A Physical Rubber Duck

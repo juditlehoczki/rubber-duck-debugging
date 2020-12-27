@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Rubber Duck Debugger",
+  "version": "1.0",
+  "description": "Rubber Duck Debugger",
+  "author": "Judit Lehoczki",
+  "short_name": "rubberDuckRebugger",
+  "icons": {
+      "128":"assets/icon128.png",
+      "48": "assets/icon128.png",
+      "16":"assets/icon16.png"
+    },
+  "browser_action": {         
+    "default_title": "Duck Norris",
+    "default_icon": {
+      "128":"assets/icon128.png",
+      "48": "assets/icon128.png",
+      "16":"assets/icon16.png"
+    },
+    "default_popup": "index.html"
+  },
+  "background": {
+    "scripts": ["script.js"],
+    "persistent": false
+  },
+  "permissions": ["storage"]
+}

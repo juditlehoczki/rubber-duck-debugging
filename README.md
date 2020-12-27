@@ -15,7 +15,7 @@ The extension also makes use of the browser's local storage by automatically sav
 
 ## Demo
 
-<img border="1" style="border-radius:10px;" alt="Duck Norris" src="./assets/screenshot.png" width="350">
+<img border="1" style="border-radius:10px;" alt="Duck Norris" src="./assets/screenshot.png" width="500">
 
 ## Local Install
 

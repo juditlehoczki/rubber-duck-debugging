@@ -15,9 +15,15 @@ With the Speech Recognition API the user can explain their code to Duck Norris w
 
 The extension also makes use of the browser's local storage by automatically saving the last recording there so that it doesn't get lost if the pop up gets closed by accident.
 
+## Screenshots
+
+<img border="1" style="border-radius:10px;" alt="Duck Norris Extension Screenshot" src="./assets/screenshot-extension.png" width="400">
+<img border="1" style="border-radius:10px;" alt="Duck Norris Extension Screenshot" src="./assets/screenshot-toolbar.png" width="400">
+<img border="1" style="border-radius:10px;" alt="Duck Norris Popup Screenshot" src="./assets/screenshot-popup.png" width="500">
+
 ## Demo
 
-<img border="1" style="border-radius:10px;" alt="Duck Norris" src="./assets/screenshot.png" width="500">
+A video demo is available on YouTube.
 
 ## Local Install
 

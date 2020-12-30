@@ -23,7 +23,7 @@ The extension also makes use of the browser's local storage by automatically sav
 
 ## Demo
 
-A video demo is available on YouTube.
+A video demo is available on [YouTube](https://youtu.be/aFo2vF9sHV0).
 
 ## Local Install
 
